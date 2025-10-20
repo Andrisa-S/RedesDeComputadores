@@ -325,3 +325,8 @@
 | SQUID         |     ✅     | Servidor proxy para controle de acesso       |
 | IP TABLES     |     ✅     | Gerenciamento de regras de firewall          |
 
+
+## Imagens
+
+
+
