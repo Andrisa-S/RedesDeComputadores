@@ -328,5 +328,13 @@
 
 ## Imagens
 
+![Texto alternativo](imagens/foto1.jpg)
+![teste funcionando internet](imagens/foto2.jpg)
+![pesquisando bet pelo google](imagens/foto3.jpg)
+![acessando a bet por link normal do google](imagens/foto4.jpg)
+![acessando pelo link colocado no squid](imagens/foto5.jpg)
+
+
+
 
 
