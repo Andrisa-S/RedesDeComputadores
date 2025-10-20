@@ -328,12 +328,6 @@
 
 ## Imagens
 
-![Texto alternativo](imagens/foto1.jpg)
-![teste funcionando internet](imagens/foto2.jpg)
-![pesquisando bet pelo google](imagens/foto3.jpg)
-![acessando a bet por link normal do google](imagens/foto4.jpg)
-![acessando pelo link colocado no squid](imagens/foto5.jpg)
-
 <p align="center">
   <img src="imagens/foto1.jpg" width="400">
   <br>
@@ -363,9 +357,3 @@
   <br>
   <em>Figura 5: Acessando o link que nosso grupo criou e inseriu no Squid.</em>
 </p>
-
-
-
-
-
-
