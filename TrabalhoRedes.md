@@ -334,6 +334,37 @@
 ![acessando a bet por link normal do google](imagens/foto4.jpg)
 ![acessando pelo link colocado no squid](imagens/foto5.jpg)
 
+<p align="center">
+  <img src="imagens/foto1.jpg" width="400">
+  <br>
+  <em>Figura 1: Descrição da primeira imagem.</em>
+</p>
+
+<p align="center">
+  <img src="imagens/foto2.jpg" width="400">
+  <br>
+  <em>Figura 2: Teste funcionando a internet.</em>
+</p>
+
+<p align="center">
+  <img src="imagens/foto3.jpg" width="400">
+  <br>
+  <em>Figura 3: Pesquisando sites de aposta no Google.</em>
+</p>
+
+<p align="center">
+  <img src="imagens/foto4.jpg" width="400">
+  <br>
+  <em>Figura 4: Acessando a bet digitando o link manualmente.</em>
+</p>
+
+<p align="center">
+  <img src="imagens/foto5.jpg" width="400">
+  <br>
+  <em>Figura 5: Acessando o link que nosso grupo criou e inseriu no Squid.</em>
+</p>
+
+
 
 
 
