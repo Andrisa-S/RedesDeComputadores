@@ -330,7 +330,7 @@
 <p align="center">
   <img src="imagens/foto1.jpg" width="900">
   <br>
-  <em>Figura 1: Descrição da primeira imagem.</em>
+  <em>Figura 1: Mostrando que a máquina está com o IP escolhido pelo grupo.</em>
 </p>
 
 <p align="center">
@@ -356,4 +356,5 @@
   <br>
   <em>Figura 5: Acessando o link que nosso grupo criou e inseriu no Squid.</em>
 </p>
+
 
